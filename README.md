@@ -1,10 +1,11 @@
 # Machine Failure Prediction ⚠
 
-## Dataset:
+## Dataset
 
 ### This dataset contains sensor data collected from various machines, with the aim of predicting machine failures in advance. It includes a variety of sensor readings as well as the recorded machine failures.
 
-## Columns Description
+## Columns Description:
+
 ###**footfall**: The number of people or objects passing by the machine.
 ###**tempMode**: The temperature mode or setting of the machine.
 ###**AQ**: Air quality index near the machine.
@@ -15,3 +16,4 @@
 ###**IP**: Input pressure to the machine.
 ###**Temperature**: The operating temperature of the machine.
 ###**fail**: Binary indicator of machine failure (1 for failure, 0 for no failure).
+
