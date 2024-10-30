@@ -6,14 +6,14 @@
 
 ## Columns Description:
 
-###**footfall**: The number of people or objects passing by the machine.
-###**tempMode**: The temperature mode or setting of the machine.
-###**AQ**: Air quality index near the machine.
-###**USS**: Ultrasonic sensor data, indicating proximity measurements.
-###**CS**: Current sensor readings, indicating the electrical current usage of the machine.
-###**VOC**: Volatile organic compounds level detected near the machine.
-###**RP**: Rotational position or RPM (revolutions per minute) of the machine parts.
-###**IP**: Input pressure to the machine.
-###**Temperature**: The operating temperature of the machine.
-###**fail**: Binary indicator of machine failure (1 for failure, 0 for no failure).
+### **footfall**: The number of people or objects passing by the machine.
+### **tempMode**: The temperature mode or setting of the machine.
+### **AQ**: Air quality index near the machine.
+### **USS**: Ultrasonic sensor data, indicating proximity measurements.
+### **CS**: Current sensor readings, indicating the electrical current usage of the machine.
+### **VOC**: Volatile organic compounds level detected near the machine.
+### **RP**: Rotational position or RPM (revolutions per minute) of the machine parts.
+### **IP**: Input pressure to the machine.
+### **Temperature**: The operating temperature of the machine.
+### **fail**: Binary indicator of machine failure (1 for failure, 0 for no failure).
 
